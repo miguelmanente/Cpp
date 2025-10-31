@@ -1,0 +1,8 @@
+=== DATOS PERSONALES ===
+Nombre: Miguel Angel
+Apellido: Manente
+DNI: 12345678
+Fecha de Nacimiento: 01/01/1931
+Direccion: No se donde 1234
+Telefono: 0213 - 15231364
+Email: miguel@gmail.com
